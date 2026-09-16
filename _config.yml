@@ -1,0 +1,9 @@
+# Site settings
+title: Python Programming & Tools for Data Science (DATA 598B)
+description: "Course at the University of Washington, Python Programming & Tools for Data Science"
+url: "http://uw-msds-python.github.io"
+github_username:  uw-msds-python
+
+
+# Build settings
+markdown: kramdown
