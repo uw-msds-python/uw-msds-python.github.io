@@ -11,7 +11,7 @@ The following software are available for Windows, Mac, and Linux.
 
 ## 0. Connect to the `eduroam` Wi-Fi network
 
-For this class, you may have trouble using the `University of Washington` Wi-Fi network to do all activities. Instead, we *strongly* recommend that you be connected to `eduroam`. For instructions on how to connect to `eduroam`, follow the “How to access the eduroam network” section on this page: https://uwconnect.uw.edu/it?id=kb_article_view&sysparm_article=KB0034255#howtouse.
+For this class, you may have trouble using the `University of Washington` Wi-Fi network to do all activities. Instead, we *strongly* recommend that you be connected to `eduroam`. For instructions on how to connect to `eduroam`, follow the “How to access the eduroam network” section on [this page](https://uwconnect.uw.edu/it?id=kb_article_view&sysparm_article=KB0034255#howtouse).
 
 ## 1. Ensure you have access to a Unix-style terminal.
 

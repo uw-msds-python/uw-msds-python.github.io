@@ -12,45 +12,46 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 * Content / Video
 * Links
     * [bash cheat sheet](https://www.alexji.com/UNIXCheatSheet.pdf)
+    * [Linux man pages](https://man7.org/linux/man-pages/)
 * Assigned: Homework 1
 
-### 10/8/26 - Python basics
+### 10/8/26 - Git & Python basics
 * Content / Video
 * Links
 * Due: Homework 1
 * Assigned: Homework 2
 
-### 10/15/26
+### 10/15/26 - IDEs & Python
 * Content / Video
 * Links
 * Due: Homework 2
 * Assigned: Homework 3
 
-### 10/22/26
+### 10/22/26 - Modules & imports & standard libraries
 * Content / Video
 * Links
 * Due: Homework 3
 * Assigned: Homework 4
 
-### 10/29/26
+### 10/29/26 - I/O & data structures
 * Content / Video
 * Links
 * Due: Homework 4
 * Assigned: Homework 5
 
-### 11/5/26
+### 11/5/26 - Classes 1
 * Content / Video
 * Links
 * Due: Homework 5
 * Assigned: Homework 6
 
-### 11/12/26
+### 11/12/26 - Classes 2
 * Content / Video
 * Links
 * Due: Homework 6
 * Assigned: Homework 7
 
-### 11/19/26
+### 11/19/26 - Debugging & exceptions
 * Content / Video
 * Links
 * Due: Homework 7
@@ -58,17 +59,17 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 
 ### 11/26/26 - Thanksgiving Break
 
-### 12/3/26
+### 12/3/26 - Jupyter notebooks & matplotlib/numpy/pandas
 * Content / Video
 * Links
 * Due: Homework 8
 * Assigned: Homework 9
 
-### 12/10/26
+### 12/10/26 - Types & linting
 * Content / Video
 * Links
 * Due: Homework 9
 * Assigned: Homework 10
 
-### 12/17/26
+### 12/17/26 - Finals week
 * Due: Homework 10
