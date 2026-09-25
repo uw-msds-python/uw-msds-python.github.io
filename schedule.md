@@ -15,25 +15,25 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
     * [Linux man pages](https://man7.org/linux/man-pages/)
 * Assigned: Homework 1
 
-### 10/8/26 - Git & Python basics
+### 10/8/26 - Shell Scripting & Git
 * Content / Video
 * Links
 * Due: Homework 1
 * Assigned: Homework 2
 
-### 10/15/26 - IDEs & Python
+### 10/15/26 - IDEs & Python Basics
 * Content / Video
 * Links
 * Due: Homework 2
 * Assigned: Homework 3
 
-### 10/22/26 - Modules & imports & standard libraries
+### 10/22/26 - Data Structures & Imports & Standard Libraries
 * Content / Video
 * Links
 * Due: Homework 3
 * Assigned: Homework 4
 
-### 10/29/26 - I/O & data structures
+### 10/29/26 - I/O & Interacting with the Internet
 * Content / Video
 * Links
 * Due: Homework 4
@@ -51,7 +51,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 * Due: Homework 6
 * Assigned: Homework 7
 
-### 11/19/26 - Debugging & exceptions
+### 11/19/26 - Debugging & Exceptions
 * Content / Video
 * Links
 * Due: Homework 7
@@ -59,13 +59,13 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 
 ### 11/26/26 - Thanksgiving Break
 
-### 12/3/26 - Jupyter notebooks & matplotlib/numpy/pandas
+### 12/3/26 - Jupyter Notebooks & matplotlib/numpy/pandas
 * Content / Video
 * Links
 * Due: Homework 8
 * Assigned: Homework 9
 
-### 12/10/26 - Types & linting
+### 12/10/26 - Types & Linting
 * Content / Video
 * Links
 * Due: Homework 9
