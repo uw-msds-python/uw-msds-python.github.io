@@ -33,23 +33,7 @@ Some tips:
 * We highly suggest using the Ubuntu 26.04 distribution (as of 2026). Ubuntu is one of the more beginner-friendly Linux distros. Any of the LTS ("Long-Term Support") versions should work, however - this includes 26.04, 24.04, and 22.04 (as of 2026).
 * We suggest setting your Linux distribution username and password to match your Windows ones. This will reduce confusion!
 
-## 2. Installing Python via Anaconda / Miniconda
-We recommend that you use the most recent version of Python 3.  Slightly earlier versions of Python 3 work as well.  There are some differences between Python 2 and Python 3, and many systems only include Python 2.7 as a standard installation.  A Python installation for this course will be managed by the conda package management system, described below.
-
-Conda is a system for installing and otherwise managing Python and other software packages. For data science purposes, conda is a great tool for administering complex, potentially multi-language projects, and we'll use conda in DATA 515 as well.
-
-We recommend that you install conda from the open source community managed conda distribution because they offer terms of service that best align with academic research. The installers are available `here`[https://github.com/conda-forge/miniforge], scroll down to the Install heading and follow the directions for “Unix-like platforms” (Windows users will be installing this using their WSL bash terminal). Let it install in the default location and answer “yes” to the installer question about initializing conda.
-
-**Windows users: please make sure to install conda on both your Windows computer AND your WSL instance, NOT just your Windows computer, so that you have access to it from within WSL. Follow the command-line instructions for a Linux instance.**
-
-Below are detailed instructions **after** you have installed conda:
-1. Update conda's listing of packages for your system: $``conda update conda``
-2. Install Jupyter notebook and its requirements: $``conda install jupyter notebook``
-3. Test that Jupyter notebooks run using the terminal to start the notebook: $``jupyter notebook``
-
-If everything has worked correctly, it should print a URL to the console that opens an empty notebook. Depending on settings, it may automatically open the notebook server in your default browser.
-
-## 3. Install a terminal text editor.
+## 2. Install a terminal text editor.
 We highly suggest installing Nano, an easy to use text editor in the terminal. If you are familiar with another text editor, such as emacs or vi, then feel free to use that instead.
 
 You might already have Nano installed. To check, enter $`nano -version` in the Terminal. If you get a version number back, for example `Nano 8.6`, then you have Nano installed. Nano is not installed if you get an error message saying: `command not found: nano`.
@@ -68,6 +52,21 @@ Once installed, download Nano with the following command in your terminal:
 * `brew install nano` if using Homebrew
 * `sudo port install nano` if using MacPorts
 
+## 3. Installing Python via Anaconda / Miniconda
+We recommend that you use the most recent version of Python 3.  Slightly earlier versions of Python 3 work as well.  There are some differences between Python 2 and Python 3, and many systems only include Python 2.7 as a standard installation.  A Python installation for this course will be managed by the conda package management system, described below.
+
+Conda is a system for installing and otherwise managing Python and other software packages. For data science purposes, conda is a great tool for administering complex, potentially multi-language projects, and we'll use conda in DATA 515 as well.
+
+We recommend that you install conda from the open source community managed conda distribution because they offer terms of service that best align with academic research. The installers are available `here`[https://github.com/conda-forge/miniforge], scroll down to the Install heading and follow the directions for “Unix-like platforms” (Windows users will be installing this using their WSL bash terminal). Let it install in the default location and answer “yes” to the installer question about initializing conda.
+
+**Windows users: please make sure to install conda on both your Windows computer AND your WSL instance, NOT just your Windows computer, so that you have access to it from within WSL. Follow the command-line instructions for a Linux instance.**
+
+Below are detailed instructions **after** you have installed conda:
+1. Update conda's listing of packages for your system: $``conda update conda``
+2. Install Jupyter notebook and its requirements: $``conda install jupyter notebook``
+3. Test that Jupyter notebooks run using the terminal to start the notebook: $``jupyter notebook``
+
+If everything has worked correctly, it should print a URL to the console that opens an empty notebook. Depending on settings, it may automatically open the notebook server in your default browser.
 
 ## 4. Install a graphical text editor.
 

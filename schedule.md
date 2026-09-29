@@ -11,7 +11,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 ### 10/1/26 - Introduction & the Command Line
 * Content / Video
 * Links
-    * [bash cheat sheet](https://www.alexji.com/UNIXCheatSheet.pdf)
+    * [bash cheat sheet](https://linuxize.com/cheatsheet/linux-commands/)
     * [Linux man pages](https://man7.org/linux/man-pages/)
 * Assigned: Homework 1
 
