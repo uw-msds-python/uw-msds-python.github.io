@@ -11,7 +11,7 @@ collection: autumn2026
 * Days: Thursdays
 * Time: 4pm - 5:50pm
 * Place: L039 400 (45th Street Plaza Building)
-* Discussion form: [Ed Discussions](TODO)
+* Discussion form: [Ed Discussions](https://edstem.org/us/courses/107697/)
 
 
 ## Course Description
