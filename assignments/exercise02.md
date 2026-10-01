@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exercise 2
-collection: autumn2026
+collection: autumn2026assignments
 ---
 
 # Lecture 1, Exercise 2: Command Line Skills

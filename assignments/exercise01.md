@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Exercise 1
-collection: autumn2026
+collection: autumn2026assignments
 ---
 
 # Lecture 1, Exercise 1: Get comfortable with a command line text editor

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homework 1
-collection: autumn2026
+collection: autumn2026assignments
 ---
 
 # DATA 598B Homework 1: The Command Line
@@ -19,7 +19,7 @@ You will produce two files while completing this assignment:
 * A file called `hw1.txt` containing a numbered list that, for each item, provides either the command you executed to perform the action or an answer to the question asked. You **must** use a terminal text editor to create and edit this file.
 * A file called `hw1.history` that provides a history of the commands that you ran. This demonstrates your ability to use the command line. The final instruction below will show you how to generate this file.
 
-Please perform the following actions. The `hw1.txt` file should contain the numbers 1 to 12 with the command that you ran to perform the action (except for #12, which should have a textual answer).
+Please perform the following actions. The `hw1.txt` file should contain the numbers 2 to 13 with the command that you ran to perform the action (except for #13, which should have a textual answer).
 
 0. Open a new Terminal window. This will allow us to capture the terminal history.
 1. Make a new directory called `hw1`
