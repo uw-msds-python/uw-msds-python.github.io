@@ -11,15 +11,18 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 ### 10/1/26 - Introduction & the Command Line
 * Content / Video
 * Exercises
+    * [Exercise 1](<assignments/exercise01>)
+    * [Exercise 2](<assignments/exercise02>)
+    * [Exercise Submission on Gradescope](https://www.gradescope.com/courses/1401685/assignments/8780539)
 * Links
     * [bash cheat sheet](https://linuxize.com/cheatsheet/linux-commands/)
     * [Linux man pages](https://man7.org/linux/man-pages/)
-* Assigned: Homework 1
+* Assigned: [Homework 1](<assignments/homework01>)
 
 ### 10/8/26 - Shell Scripting & Git
 * Content / Video
 * Links
-* Due: Homework 1
+* Due: [Homework 1](<assignments/homework01>)
 * Assigned: Homework 2
 
 ### 10/15/26 - IDEs & Python Basics
