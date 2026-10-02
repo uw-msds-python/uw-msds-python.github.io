@@ -1,0 +1,29 @@
+Answer key to DATA 598B, Exercise 1
+
+1. We're using nano for this exercise
+
+2. To create the exercise1.txt file, from the command line, run the command 
+        nano exercise1.txt
+    and then save the file (see #4 below).
+    Alternatively, we could run
+        touch exercise1.txt
+    to create an emmpty file.
+
+3. Open the file with
+        nano exercise1.txt
+
+4. Save changes to the file with Ctrl-O and then Enter
+
+5. To exit the file and return to the command line, use Ctrl-X. If it prompts you to save unsaved changes, then enter "N" or "Y"+Enter.
+
+6. To create a folder exercise1 and move the exercise1.txt file into it, run the commands:
+        mkdir exercise1
+        mv exercise1.txt exercise1
+
+7. Now open the file with:
+        nano exercise1/exercise1.txt
+
+8. Use the -i option to force rm to ask before removing files. ie
+        rm -i test.txt
+
+9. The secret animal is Kingfisher

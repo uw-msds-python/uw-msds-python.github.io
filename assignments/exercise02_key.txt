@@ -1,0 +1,31 @@
+Answer key to DATA 598B, Exercise 2
+
+# Start capturing all actions that follow
+script exercise2.script
+
+# Download the City of Seattle's pet license data to a file in your home directory
+curl https://data.seattle.gov/resource/jguv-t9rb.csv -o ~/pets.csv
+
+# Make a new directory called pet_analysis in the current directory
+mkdir ./pet_analysis
+
+# Copy the downloaded file from your home directory to the pet_analysis folder
+cp ~/pets.csv ./pet_analysis
+
+# Remove the downloaded file from your home directory
+rm ~/pets.csv
+
+# Search for dogs within the csv file and output any found to the terminal
+grep "Dog" ./pet_analysis/pets.csv
+
+# Rename the csv file to cats.csv
+mv ./pet_analysis/pets.csv ./pet_analysis/cats.csv
+
+# Output only the 30th line of the file to a file called 30th.txt in the pet_analysis directory
+head ./pet_analysis/cats.csv -n 30 | tail -n 1 > ./pet_analysis/30th.txt
+
+# Using the name of the 30th pet, print the text "<name> is so fluffy" to the terminal
+echo Neville is so fluffy
+
+# Stop capturing your terminal interactions
+exit

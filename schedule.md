@@ -9,10 +9,10 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 **Homework is due by 3:59pm on the date that it is posted as "due", unless otherwise noted.**
 
 ### 10/1/26 - Introduction & the Command Line
-* Content / Video
+* [Content](<lectures/lecture01_commandline>) / [Video](https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5691e28d-78ee-4378-914d-b4ce0137147c)
 * Exercises
-    * [Exercise 1](<assignments/exercise01>)
-    * [Exercise 2](<assignments/exercise02>)
+    * [Exercise 1](<assignments/exercise01>) ([key](<assignments/exercise01_key.txt>))
+    * [Exercise 2](<assignments/exercise02>) ([key](<assignments/exercise02_key.txt>))
     * [Exercise Submission on Gradescope](https://www.gradescope.com/courses/1401685/assignments/8780539)
 * Links
     * [bash cheat sheet](https://linuxize.com/cheatsheet/linux-commands/)
