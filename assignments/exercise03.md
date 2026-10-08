@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Exercise 3 - Shell Scripting
 collection: autumn2026assignments
 ---
+
+# Exercise 3 - Shell Scripting
 
 This exercise is a follow up to [Exercise 2](<exercise02>) and pertains to [the City of Seattle's pet license data](https://data.seattle.gov/City-Administration/Seattle-Pet-Licenses/jguv-t9rb/about_data), which includes each pet's name, species, breed, and zip code.
 
