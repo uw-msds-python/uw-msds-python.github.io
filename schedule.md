@@ -21,14 +21,22 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 
 ### 10/8/26 - Shell Scripting & Git
 * Content / Video
+* Exercises
+    * [Programming Experience Survey](https://canvas.uw.edu/courses/1935466/quizzes/2453970)
+    * [Exercise 3](<assignments/exercise03>)
+    * [Exercise 4](<assignments/exercise04>)
+    * [Exercise Submission on Gradescope](https://www.gradescope.com/courses/1401685/assignments/8817508)
 * Links
+    * [bash scripting cheat sheet](https://linuxize.com/cheatsheet/bash/) (contains a lot more than we covered)
+    * [Git cheat sheet](https://git-scm.com/cheat-sheet)
+    * Another git tutorial from [Software Carpentry](https://swcarpentry.github.io/git-novice/)
 * Due: [Homework 1](<assignments/homework01>)
-* Assigned: Homework 2
+* Assigned: [Homework 2](<assignments/homework02>)
 
-### 10/15/26 - IDEs & Python Basics
+### 10/15/26 - Jupyter Notebooks & Python Basics
 * Content / Video
 * Links
-* Due: Homework 2
+* Due: [Homework 2](<assignments/homework02>)
 * Assigned: Homework 3
 
 ### 10/22/26 - Data Structures & Imports & Standard Libraries
@@ -37,7 +45,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 * Due: Homework 3
 * Assigned: Homework 4
 
-### 10/29/26 - I/O & Interacting with the Internet
+### 10/29/26 - IDEs ; I/O & Interacting with the Internet
 * Content / Video
 * Links
 * Due: Homework 4
@@ -63,7 +71,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 
 ### 11/26/26 - Thanksgiving Break
 
-### 12/3/26 - Jupyter Notebooks & matplotlib/numpy/pandas
+### 12/3/26 - Data Science with Python
 * Content / Video
 * Links
 * Due: Homework 8
