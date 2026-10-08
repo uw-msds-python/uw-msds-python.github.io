@@ -15,12 +15,11 @@ Write a shell script called `exercise3.sh` that performs the following operation
 
 1. Move the downloaded file from your home directory to the `pet_analysis` folder.
 
-1. Count the number of cats within the csv file and output the text `There are <number> cats in the dataset`.
+1. Create a variable called `nice_cat` that contains the text "Luna"
+
+1. Output the lines of the csv file that are for **cats** with the name stored in the `nice_cat` variable. We want to search for BOTH cats AND the name.
     - Hint: cats are identified with the text "Cat" as the species.
     - Hint: You can use the `grep` command to search within a file. `grep` can be very complicated, but for our purposes here, the examples should show you how to do this.
-    - Hint: you'll need to use one or more topics we discussed in lecture today.
-
-1. Do the same as the previous question, but for dogs ("Dog" as the species). Try to do this in a DIFFERENT way compared with the previous question (ie use a different set of commands/options and/or a different approach to printing).
 
 1. Remove the `pet_analysis` directory and csv file (clean up after yourself!).
 
@@ -38,5 +37,6 @@ Bonus questions are not for credit; if you are bored and speed through the previ
     ```
     and it should output (in addition to the cat/dog counting):
     ```
-    There are 20 pets in zip code 98101
+    Pets in zip code 98101:
+    29
     ```
