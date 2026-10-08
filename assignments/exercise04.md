@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Exercise 4
+title: Exercise 4 - Git
 collection: autumn2026assignments
 ---
-
-# Lecture 2, Exercise 4: Git
 
 ## Prerequisite: Setting Up GitLab 
 We will be using GitLab to submit exercises/homework and give feedback. GitLab is a web-based git hosting service that is similar to GitHub but hosted locally by the Computer Science Department.

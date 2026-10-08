@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Exercise 2
+title: Exercise 2 - Command Line Skills
 collection: autumn2026assignments
 ---
-
-# Lecture 1, Exercise 2: Command Line Skills
 
 This exercise pertains to [the City of Seattle's pet license data](https://data.seattle.gov/City-Administration/Seattle-Pet-Licenses/jguv-t9rb/about_data), which includes each pet's name, species, breed, and zip code.
 

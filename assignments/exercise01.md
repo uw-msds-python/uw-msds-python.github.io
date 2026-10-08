@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Exercise 1
+title: Exercise 1 - Get comfortable with a command line text editor
 collection: autumn2026assignments
 ---
-
-# Lecture 1, Exercise 1: Get comfortable with a command line text editor
 
 Write your answers to the following numbered questions in a file called `exercise1.txt`. Practice by writing the answers using the text editor that you are writing about.
 
