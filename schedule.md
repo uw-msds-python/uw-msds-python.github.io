@@ -20,10 +20,10 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 * Assigned: [Homework 1](<assignments/homework01>)
 
 ### 10/8/26 - Shell Scripting & Git
-* Content / Video
+* Content ([scripting](lectures/lecture02_scripting), [git](lectures/lecture02_git), [slides](lectures/DATA598B_Lecture2.pdf)) / [Video](https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5691e28d-78ee-4378-914d-b4ce0137147c)
 * Exercises
     * [Programming Experience Survey](https://canvas.uw.edu/courses/1935466/quizzes/2453970)
-    * [Exercise 3](<assignments/exercise03>)
+    * [Exercise 3](<assignments/exercise03>) ([key](<assignments/exercise03_key.sh>))
     * [Exercise 4](<assignments/exercise04>)
     * [Exercise Submission on Gradescope](https://www.gradescope.com/courses/1401685/assignments/8817508)
 * Links
