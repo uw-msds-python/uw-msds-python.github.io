@@ -37,12 +37,12 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 * Content / Video
 * Links
 * Due: [Homework 2](<assignments/homework02>)
-* Assigned: Homework 3
+* Assigned: Homework 3, [Optional: Homework 1 Regrade](https://www.gradescope.com/courses/1401685/assignments/8861881)
 
 ### 10/22/26 - Data Structures & Imports & Standard Libraries
 * Content / Video
 * Links
-* Due: Homework 3
+* Due: Homework 3, [Optional: Homework 1 Regrade](https://www.gradescope.com/courses/1401685/assignments/8861881)
 * Assigned: Homework 4
 
 ### 10/29/26 - IDEs ; I/O & Interacting with the Internet
