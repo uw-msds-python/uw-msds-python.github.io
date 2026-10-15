@@ -34,10 +34,15 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 * Assigned: [Homework 2](<assignments/homework02>)
 
 ### 10/15/26 - Jupyter Notebooks & Python Basics
-* Content / Video
+* [Content](lectures/DATA598B_Lecture3.pdf) / Video
+* Exercises
+    * [Exercise 5: Jupyter & Python Math Notebook](<assignments/exercise05_python_math.ipynb>)
+    * [Exercise Submission on Gradescope](https://www.gradescope.com/courses/1401685/assignments/8857051)
 * Links
+    * [Git Mastery, an interactive online game](https://gitmastery.me/)
+    * [Python math module documentation](https://docs.python.org/3/library/math.html)
 * Due: [Homework 2](<assignments/homework02>)
-* Assigned: Homework 3, [Optional: Homework 1 Regrade](https://www.gradescope.com/courses/1401685/assignments/8861881)
+* Assigned: Homework 3 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8874204)), [Optional: Homework 1 Regrade](https://www.gradescope.com/courses/1401685/assignments/8861881)
 
 ### 10/22/26 - Data Structures & Imports & Standard Libraries
 * Content / Video
