@@ -36,7 +36,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 ### 10/15/26 - Jupyter Notebooks & Python Basics
 * [Content](lectures/DATA598B_Lecture3.pdf) / Video
 * Exercises
-    * [Exercise 5: Jupyter & Python Math Notebook](<assignments/exercise05_python_math.ipynb>)
+    * [Exercise 5: Jupyter & Python Math Notebook](<assignments/exercise05_python_math.ipynb>) ([key](<assignments/exercise05_python_math_key.ipynb>))
     * [Exercise Submission on Gradescope](https://www.gradescope.com/courses/1401685/assignments/8857051)
 * Links
     * [Git Mastery, an interactive online game](https://gitmastery.me/)
