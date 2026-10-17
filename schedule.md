@@ -34,7 +34,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 * Assigned: [Homework 2](<assignments/homework02>)
 
 ### 10/15/26 - Jupyter Notebooks & Python Basics
-* [Content](lectures/DATA598B_Lecture3.pdf) / Video
+* [Content](lectures/DATA598B_Lecture3.pdf) / [Video](https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5691e28d-78ee-4378-914d-b4ce0137147c)
 * Exercises
     * [Exercise 5: Jupyter & Python Math Notebook](<assignments/exercise05_python_math.ipynb>) ([key](<assignments/exercise05_python_math_key.ipynb>))
     * [Exercise Submission on Gradescope](https://www.gradescope.com/courses/1401685/assignments/8857051)
