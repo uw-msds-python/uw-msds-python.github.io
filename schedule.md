@@ -17,7 +17,8 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 * Links
     * [bash cheat sheet](https://linuxize.com/cheatsheet/linux-commands/)
     * [Linux man pages](https://man7.org/linux/man-pages/)
-* Assigned: [Homework 1](<assignments/homework01>)
+* Assigned
+    * [Homework 1](<assignments/homework01>)
 
 ### 10/8/26 - Shell Scripting & Git
 * Content ([scripting](lectures/lecture02_scripting), [git](lectures/lecture02_git), [slides](lectures/DATA598B_Lecture2.pdf)) / [Video](https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5691e28d-78ee-4378-914d-b4ce0137147c)
@@ -30,8 +31,10 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
     * [bash scripting cheat sheet](https://linuxize.com/cheatsheet/bash/) (contains a lot more than we covered)
     * [Git cheat sheet](https://git-scm.com/cheat-sheet)
     * Another git tutorial from [Software Carpentry](https://swcarpentry.github.io/git-novice/)
-* Due: [Homework 1](<assignments/homework01>)
-* Assigned: [Homework 2](<assignments/homework02>)
+* Due
+    * [Homework 1](<assignments/homework01>)
+* Assigned
+    * [Homework 2](<assignments/homework02>)
 
 ### 10/15/26 - Jupyter Notebooks & Python Basics
 * [Content](lectures/DATA598B_Lecture3.pdf) / [Video](https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5691e28d-78ee-4378-914d-b4ce0137147c)
@@ -41,28 +44,42 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 * Links
     * [Git Mastery, an interactive online game](https://gitmastery.me/)
     * [Python math module documentation](https://docs.python.org/3/library/math.html)
-* Due: [Homework 2](<assignments/homework02>)
-* Assigned: Homework 3 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8874204)), [Optional: Homework 1 Regrade](https://www.gradescope.com/courses/1401685/assignments/8861881)
+* Due
+    * [Homework 2](<assignments/homework02>)
+* Assigned
+    * Homework 3 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8874204))
+    * [Optional: Homework 1 Regrade](https://www.gradescope.com/courses/1401685/assignments/8861881)
 
-### 10/22/26 - Data Structures & Imports & Standard Libraries
+### 10/22/26 - Python Types & Data Structures
+* Content (see notebooks below) / Video
+* Exercises
+    * [Exercise: Python Types Notebook](<lectures/lecture04_python.ipynb>)
+    * [Exercise: Python Data Structures Notebook](<lectures/lecture04_data_structures.ipynb>)
+    * [Exercise Submission on Gradescope](https://www.gradescope.com/courses/1401685/assignments/8923600)
+* Links
+    * [Python built-in types documentation](https://docs.python.org/3.10/library/stdtypes.html)
+    * [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
+* Due
+    * Homework 3 ([submission link](https://www.gradescope.com/courses/1401685/assignments/8874204))
+    * [Optional: Homework 1 Regrade](https://www.gradescope.com/courses/1401685/assignments/8861881)
+* Assigned
+    * Homework 4 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8924686))
+    * Optional: Homework 2 Regrade
+
+### 10/29/26 - Functions ; Modules & Imports
 * Content / Video
 * Links
-* Due: Homework 3, [Optional: Homework 1 Regrade](https://www.gradescope.com/courses/1401685/assignments/8861881)
-* Assigned: Homework 4
-
-### 10/29/26 - IDEs ; I/O & Interacting with the Internet
-* Content / Video
-* Links
-* Due: Homework 4
+* Due:
+    * Homework 4 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8924686))
 * Assigned: Homework 5
 
-### 11/5/26 - Classes 1
+### 11/5/26 - IDEs ; I/O & Interacting with the Internet
 * Content / Video
 * Links
 * Due: Homework 5
 * Assigned: Homework 6
 
-### 11/12/26 - Classes 2
+### 11/12/26 - Classes
 * Content / Video
 * Links
 * Due: Homework 6
