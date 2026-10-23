@@ -51,10 +51,10 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
     * [Optional: Homework 1 Regrade](https://www.gradescope.com/courses/1401685/assignments/8861881)
 
 ### 10/22/26 - Python Types & Data Structures
-* Content (see notebooks below) / Video
+* Content (see notebooks below) / [Video](https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5691e28d-78ee-4378-914d-b4ce0137147c)
 * Exercises
-    * [Exercise: Python Types Notebook](<lectures/lecture04_python.ipynb>)
-    * [Exercise: Python Data Structures Notebook](<lectures/lecture04_data_structures.ipynb>)
+    * [Exercise: Python Types Notebook](<lectures/lecture04_python.ipynb>) ([key](<lectures/lecture04_python_key.ipynb>))
+    * [Exercise: Python Data Structures Notebook](<lectures/lecture04_data_structures.ipynb>) ([key](<lectures/lecture04_data_structures_key.ipynb>))
     * [Exercise Submission on Gradescope](https://www.gradescope.com/courses/1401685/assignments/8923600)
 * Links
     * [Python built-in types documentation](https://docs.python.org/3.10/library/stdtypes.html)
