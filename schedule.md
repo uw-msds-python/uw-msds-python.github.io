@@ -71,7 +71,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 * Links
 * Due:
     * Homework 4 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8924686))
-    * Homework 2 Regrade ([submission link](https://www.gradescope.com/courses/1401685/assignments/8928586))
+    * Optional: Homework 2 Regrade ([submission link](https://www.gradescope.com/courses/1401685/assignments/8928586))
 * Assigned: Homework 5
 
 ### 11/5/26 - IDEs ; I/O & Interacting with the Internet
