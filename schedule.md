@@ -70,7 +70,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 * Content / Video
     * [Exercise: Functions](<lectures/lecture05_functions.ipynb>)
     * [Exercise: Modules](<lectures/lecture05_modules.ipynb>)
-    * No need to submit exercises today!
+    * No need to submit exercises today (just attendence)
 * Links
 * Due
     * Homework 4 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8924686))
