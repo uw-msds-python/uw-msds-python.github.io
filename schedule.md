@@ -66,19 +66,25 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
     * Homework 4 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8924686))
     * Optional: Homework 2 Regrade ([submission link](https://www.gradescope.com/courses/1401685/assignments/8928586))
 
-### 10/29/26 - Functions ; Modules & Imports
+### 10/29/26 - IDEs ; Functions ; Modules & Imports
 * Content / Video
+    * [Exercise: Functions](<lectures/lecture05_functions.ipynb>)
+    * [Exercise: Modules](<lectures/lecture05_modules.ipynb>)
+    * No need to submit exercises today!
 * Links
-* Due:
+* Due
     * Homework 4 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8924686))
     * Optional: Homework 2 Regrade ([submission link](https://www.gradescope.com/courses/1401685/assignments/8928586))
-* Assigned: Homework 5
+* Assigned
+    * Homework 5 (On GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8971224))
 
-### 11/5/26 - IDEs ; I/O & Interacting with the Internet
+### 11/5/26 - I/O & Interacting with the Internet
 * Content / Video
 * Links
-* Due: Homework 5
-* Assigned: Homework 6
+* Due
+    * Homework 5 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8971224))
+* Assigned
+    * Homework 6
 
 ### 11/12/26 - Classes
 * Content / Video
