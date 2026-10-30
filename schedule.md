@@ -67,7 +67,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
     * Optional: Homework 2 Regrade ([submission link](https://www.gradescope.com/courses/1401685/assignments/8928586))
 
 ### 10/29/26 - IDEs ; Functions ; Modules & Imports
-* Content / Video
+* Content (below) / [Video](https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5691e28d-78ee-4378-914d-b4ce0137147c)
     * [Exercise: Functions](<lectures/lecture05_functions.ipynb>) ([key](<lectures/lecture05_functions_key.ipynb>))
     * [Exercise: Modules](<lectures/lecture05_modules.ipynb>) ([key](<lectures/lecture05_modules_key.ipynb>)) ([celebrate.py](<lectures/celebrate.py>)) ([exercise_fns.py](<lectures/modules/exercise_fns.py>)) ([exercise_main.py](<lectures/modules/exercise_main.py>))
     * No need to submit exercises today (just attendence)
