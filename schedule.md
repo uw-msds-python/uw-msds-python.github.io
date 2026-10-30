@@ -68,8 +68,8 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 
 ### 10/29/26 - IDEs ; Functions ; Modules & Imports
 * Content / Video
-    * [Exercise: Functions](<lectures/lecture05_functions.ipynb>)
-    * [Exercise: Modules](<lectures/lecture05_modules.ipynb>)
+    * [Exercise: Functions](<lectures/lecture05_functions.ipynb>) ([key](<lectures/lecture05_functions_key.ipynb>))
+    * [Exercise: Modules](<lectures/lecture05_modules.ipynb>) ([key](<lectures/lecture05_modules_key.ipynb>))
     * No need to submit exercises today (just attendence)
 * Links
 * Due
