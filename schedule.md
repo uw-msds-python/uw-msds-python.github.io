@@ -77,19 +77,31 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
     * Optional: Homework 2 Regrade ([submission link](https://www.gradescope.com/courses/1401685/assignments/8928586))
 * Assigned
     * Homework 5 (On GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8971224))
+    * Optional: Homework 3 regrade (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8978227)) - due 11/6 4pm    
 
 ### 11/5/26 - I/O & Interacting with the Internet
 * Content / Video
+    * [Exercise: Input/Output](<lectures/lecture06_input_output.ipynb>)
+    * [Exercise: The Internet](<lectures/lecture06_internet.ipynb>)
+    * No need to submit exercises today (just attendence)
 * Links
+    * [Python documentation on input & output](https://docs.python.org/3/tutorial/inputoutput.html)
+    * [F-string formatting guide](https://docs.python.org/3/tutorial/inputoutput.html#fancier-output-formatting)
+    * [urllib.request documentation](https://docs.python.org/3/library/urllib.request.html)
+    * [requests library](https://requests.readthedocs.io/en/latest/)
 * Due
     * Homework 5 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8971224))
+    * Optional: Homework 3 regrade (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8978227)) - due 11/6 4pm
 * Assigned
-    * Homework 6
+    * Homework 6 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/9011714))
+    * Optional: Homework 4 regrade (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/9011889))
 
 ### 11/12/26 - Classes
 * Content / Video
 * Links
-* Due: Homework 6
+* Due
+    * Homework 6 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/9011714))
+    * Optional: Homework 4 regrade (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/9011889))
 * Assigned: Homework 7
 
 ### 11/19/26 - Debugging & Exceptions
