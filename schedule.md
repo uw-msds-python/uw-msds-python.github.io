@@ -83,7 +83,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 * Content / Video
     * [Exercise: Input/Output](<lectures/lecture06_input_output.ipynb>)
     * [Exercise: The Internet](<lectures/lecture06_internet.ipynb>)
-    * No need to submit exercises today (just attendence)
+    * No need to submit exercises today (just attendence)!
 * Links
     * [Python documentation on input & output](https://docs.python.org/3/tutorial/inputoutput.html)
     * [F-string formatting guide](https://docs.python.org/3/tutorial/inputoutput.html#fancier-output-formatting)
