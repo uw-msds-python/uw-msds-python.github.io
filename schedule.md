@@ -81,7 +81,7 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
 
 ### 11/5/26 - I/O & Interacting with the Internet
 * Content (below) / [Video](https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5691e28d-78ee-4378-914d-b4ce0137147c)
-    * [Exercise: Input/Output](<lectures/lecture06_input_output.ipynb>) ([key](<lectures/lecture06_input_output_key.ipynb>))
+    * [Exercise: Input/Output](<lectures/lecture06_input_output.ipynb>) ([key](<lectures/lecture06_input_output_key.ipynb>)) ([csv_parser.py](<lectures/csv_parser.py>))
     * [Exercise: The Internet](<lectures/lecture06_internet.ipynb>) ([key](<lectures/lecture06_internet.ipynb>))
     * No need to submit exercises today (just attendence)!
 * Links
