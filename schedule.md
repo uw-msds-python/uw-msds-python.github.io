@@ -80,9 +80,9 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
     * Optional: Homework 3 regrade (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/8978227)) - due 11/6 4pm    
 
 ### 11/5/26 - I/O & Interacting with the Internet
-* Content / Video
-    * [Exercise: Input/Output](<lectures/lecture06_input_output.ipynb>)
-    * [Exercise: The Internet](<lectures/lecture06_internet.ipynb>)
+* Content (below) / [Video](https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5691e28d-78ee-4378-914d-b4ce0137147c)
+    * [Exercise: Input/Output](<lectures/lecture06_input_output.ipynb>) ([key](<lectures/lecture06_input_output_key.ipynb>))
+    * [Exercise: The Internet](<lectures/lecture06_internet.ipynb>) ([key](<lectures/lecture06_internet.ipynb>))
     * No need to submit exercises today (just attendence)!
 * Links
     * [Python documentation on input & output](https://docs.python.org/3/tutorial/inputoutput.html)
