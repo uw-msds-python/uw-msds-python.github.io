@@ -97,17 +97,26 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
     * Optional: Homework 4 regrade (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/9011889))
 
 ### 11/12/26 - Classes
-* Content / Video
+* Content (below) / Video
+    * [Exercise: Classes](<lectures/lecture07_classes.ipynb>)
+    * [Exercise: Inheritance](<lectures/lecture07_inheritance.ipynb>) (if we have time)
+    * No need to submit exercises today (just attendence)!
 * Links
+    * [Python Class tutorial](https://docs.python.org/3/tutorial/classes.html)
+    * [Python dunder methods](https://docs.python.org/3/reference/datamodel.html#special-method-names)
 * Due
     * Homework 6 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/9011714))
     * Optional: Homework 4 regrade (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/9011889))
-* Assigned: Homework 7
+* Assigned
+    * Homework 7 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/9052339))
+    * Optional: Homework 5 regrade ([submission link](https://www.gradescope.com/courses/1401685/assignments/9052673))
 
 ### 11/19/26 - Debugging & Exceptions
 * Content / Video
 * Links
-* Due: Homework 7
+* Due
+    * Homework 7 (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/9052339))
+    * Optional: Homework 5 regrade ([submission link](https://www.gradescope.com/courses/1401685/assignments/9052673))
 * Assigned: Homework 8
 
 ### 11/26/26 - Thanksgiving Break
