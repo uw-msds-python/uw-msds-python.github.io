@@ -97,9 +97,8 @@ Lecture materials (slides, keys, & notes) and recordings will be posted by midni
     * Optional: Homework 4 regrade (on GitLab) ([submission link](https://www.gradescope.com/courses/1401685/assignments/9011889))
 
 ### 11/12/26 - Classes
-* Content (below) / Video
-    * [Exercise: Classes](<lectures/lecture07_classes.ipynb>)
-    * [Exercise: Inheritance](<lectures/lecture07_inheritance.ipynb>) (if we have time)
+* Content (below) / [Video](https://uw.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=5691e28d-78ee-4378-914d-b4ce0137147c)
+    * [Exercise: Classes](<lectures/lecture07_classes.ipynb>) ([key](<lectures/lecture07_classes_key.ipynb>))
     * No need to submit exercises today (just attendence)!
 * Links
     * [Python Class tutorial](https://docs.python.org/3/tutorial/classes.html)
